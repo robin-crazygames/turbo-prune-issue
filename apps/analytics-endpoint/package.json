@@ -24,6 +24,11 @@
       "nyc": "^17.1.0",
       "osls": "3.51.2",
       "prettier": "*",
+      "serverless": "^3.38.0",
+      "serverless-esbuild": "^1.54.3",
+      "serverless-plugin-aws-alerts": "^1.7.5",
+      "serverless-prune-plugin": "^2.0.2",
+      "serverless-webpack": "^5.15.3",
       "sinon": "^18.0.0",
       "sinon-chai": "^4.0.0",
       "ts-loader": "^9.5.4",
@@ -35,7 +40,21 @@
       "zx": "^8.8.5"
     },
     "dependencies": {
+      "@aws-sdk/client-firehose": "3.864.0",
+      "@aws-sdk/client-redshift-data": "3.922.0",
+      "@aws-sdk/client-s3": "3.926.0",
+      "@aws-sdk/client-secrets-manager": "3.922.0",
+      "@aws-sdk/client-sqs": "3.926.0",
+      "@aws-sdk/client-ssm": "3.864.0",
+      "@aws-sdk/client-sts": "3.922.0",
+      "@aws-sdk/lib-storage": "3.926.0",
       "@foobar/utils": "*",
+      "compare-versions": "6.1.1",
+      "fastify": "5.6.2",
+      "fastify-healthcheck": "5.1.0",
+      "ip-matching": "2.1.2",
+      "lodash": "4.17.21",
+      "pg": "8.16.3",
       "uuid": "9.0.1"
     }
   }
