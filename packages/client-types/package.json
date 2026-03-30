@@ -1,0 +1,15 @@
+{
+    "name": "@foobar/client-types",
+    "version": "0.0.0",
+    "private": true,
+    "engines": {
+      "node": ">=22.0.0"
+    },
+    "devDependencies": {
+      "@foobar/eslint-config": "*",
+      "@foobar/typescript-config": "*",
+      "prettier": "*",
+      "typescript": "5.8.3"
+    }
+  }
+  

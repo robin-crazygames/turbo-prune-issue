@@ -1,0 +1,22 @@
+{
+    "name": "@foobar/logger",
+    "version": "1.0.0",
+    "private": true,
+    "engines": {
+      "node": ">=22.0.0"
+    },
+    "dependencies": {
+      "pino": "^9.0.0",
+      "pino-http": "^10.3.0",
+      "uuid": "^9.0.0"
+    },
+    "devDependencies": {
+      "@foobar/eslint-config": "*",
+      "@foobar/typescript-config": "*",
+      "@types/node": "^22.16.5",
+      "@types/uuid": "^9.0.0",
+      "typescript": "5.8.3",
+      "prettier": "*"
+    }
+  }
+  

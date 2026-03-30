@@ -1,0 +1,18 @@
+{
+    "name": "@foobar/portal-types",
+    "version": "0.0.0",
+    "private": true,
+    "engines": {
+      "node": ">=22.0.0"
+    },
+    "dependencies": {
+      "@foobar/client-types": "*"
+    },
+    "devDependencies": {
+      "@foobar/eslint-config": "*",
+      "@foobar/typescript-config": "*",
+      "prettier": "*",
+      "typescript": "5.8.3"
+    }
+  }
+  

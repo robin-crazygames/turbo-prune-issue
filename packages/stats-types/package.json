@@ -1,0 +1,16 @@
+{
+    "name": "@foobar/stats-types",
+    "version": "0.0.0",
+    "private": true,
+    "engines": {
+      "node": ">=22.0.0"
+    },
+    "devDependencies": {
+      "@foobar/eslint-config": "*",
+      "@foobar/typescript-config": "*",
+      "eslint-plugin-chai-friendly": "^1.1.0",
+      "prettier": "*",
+      "typescript": "5.8.3"
+    }
+  }
+  

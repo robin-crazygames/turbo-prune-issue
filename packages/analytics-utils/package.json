@@ -1,0 +1,22 @@
+{
+    "name": "@foobar/analytics-utils",
+    "version": "0.0.0",
+    "private": true,
+    "engines": {
+      "node": ">=22.0.0"
+    },
+    "dependencies": {
+      "@foobar/ads-utils": "*",
+      "@foobar/client-types": "*",
+      "@foobar/game-types": "*",
+      "@foobar/iframe-events": "*",
+      "@foobar/portal-types": "*"
+    },
+    "devDependencies": {
+      "@foobar/eslint-config": "*",
+      "@foobar/typescript-config": "*",
+      "prettier": "*",
+      "typescript": "5.8.3"
+    }
+  }
+  

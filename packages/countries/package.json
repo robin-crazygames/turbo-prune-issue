@@ -1,0 +1,28 @@
+{
+    "name": "@foobar/countries",
+    "version": "0.0.0",
+    "private": true,
+    "engines": {
+      "node": ">=22.0.0"
+    },
+    "dependencies": {
+      "@foobar/utils": "*"
+    },
+    "devDependencies": {
+      "@foobar/eslint-config": "*",
+      "@foobar/typescript-config": "*",
+      "@types/chai": "^5.2.2",
+      "@types/jsdom": "^21.1.7",
+      "@types/mocha": "^10.0.10",
+      "chai": "^5.2.1",
+      "eslint-plugin-chai-friendly": "^1.1.0",
+      "jsdom": "^26.1.0",
+      "mocha": "^11.7.1",
+      "mocha-junit-reporter": "^2.2.1",
+      "node-fetch": "^3.3.2",
+      "prettier": "*",
+      "tsx": "^4.20.3",
+      "typescript": "5.8.3"
+    }
+  }
+  
